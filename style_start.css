@@ -1,0 +1,148 @@
+.layout{
+    width: 300px;
+    margin: 0 auto;
+    border: 1pt solid gainsboro;
+    border-radius:  10px;
+    text-align: center;
+    box-shadow: -1px 0px 3px 3px hsl(0, 50%, 97%);
+}
+
+.mg-10 {
+    margin: 10px;
+}
+
+p{
+    color: gray;
+}
+
+span{
+    color: blue;
+}
+
+.group-imgage{
+    display: flex;
+    margin-left: 20px;
+    margin-right: 20px;
+    justify-content: space-between ;
+}
+
+.imgage{
+    width: 65px;
+    height: 30px;
+    border-radius: 5px;
+    border: 1px solid gainsboro;
+}
+
+img{
+    width: 30%;
+    height: 50%;
+    padding-top: 8px;
+}
+.group-login{
+    width: 300px;
+    display: flex;
+    justify-content: center;
+}
+
+.line{
+    width: 90px;
+    height: 1px;
+    margin: 5px;
+    margin-bottom: 20px;
+    border-top: 1px solid gainsboro;
+    color: gray;
+    text-align: center;
+}
+
+.detail-line{
+    color: gray; 
+    font-size: 12px;
+}
+.title-info{
+    font-weight: bold;
+    color: dimgray;
+    font-size: 15px;
+   
+}
+
+input{
+    border: 1px solid gainsboro;
+    border-radius: 5px;
+    height: 30px;
+    padding-left: 10px;
+    display: inline-block;
+    flex-grow: 1;
+   
+}
+
+.check-info{
+    display: flex;
+    justify-content: space-between;
+}
+
+button{
+    display: inline-block;
+    flex-grow: 1;
+    cursor: pointer;
+    height: 30px;
+    border-radius: 7px;
+    border: none;
+    color: aliceblue;
+    margin-bottom: 20px;
+    background-color: blue;
+}
+
+.group-control{
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.pass-info{
+    position: relative;
+    display: inline-block;
+    flex-grow: 1;
+    cursor: pointer;
+    
+}
+.passwword-img{
+    position: absolute;
+    top: 2px;
+    right: 5px;
+}
+.imgage-pass{
+    position: absolute;
+    top: 2px;
+    right: 5px;
+    width: 15px;
+    height: 15px;
+}
+
+.fs-13{
+    font-size: 13px;
+}
+
+.color-gray{
+    color: gray;
+}
+
+.mg-r-0px{
+    margin-right: 0px;
+}
+
+.mg-t-0{
+    margin-top: 0px;
+}
+
+.mg-l-2
+{
+    margin-left: 2px;
+}
+
+.mg-t-8{
+    margin-top: 8px;
+}
+
