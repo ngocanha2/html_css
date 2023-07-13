@@ -80,7 +80,7 @@ input{
     justify-content: space-between;
 }
 
-button{
+.btn-confirm{
     display: inline-block;
     flex-grow: 1;
     cursor: pointer;
@@ -146,3 +146,6 @@ button{
     margin-top: 8px;
 }
 
+.dp-flex{
+    display: flex;
+}

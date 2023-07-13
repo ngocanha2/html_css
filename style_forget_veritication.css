@@ -76,7 +76,7 @@ i{
     font-weight: 150;
 }
 
-button{
+.btn-confirm{
     height: 40px;
     border-radius: 7px;
     border: none;
@@ -114,4 +114,12 @@ button{
 .color-bule
 {
     color: blue;
+}
+
+.mg-t-8{
+    margin-top: 8px;
+}
+
+.fw-bold{
+    font-weight: bold;
 }
